@@ -1,0 +1,6 @@
+infra/ConexaoPostgresJDBC.class
+cursosDAO/cursosDAO.class
+infra/ConexaoJDBC.class
+com/cursos/profi/ws/CursosController.class
+app/MyApp.class
+com/cursos/profi/ws/Curso.class
