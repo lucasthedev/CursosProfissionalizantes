@@ -1,3 +1,4 @@
+com/cursos/profi/ws/UsuarioCurso.class
 infra/ConexaoPostgresJDBC.class
 cursosDAO/cursosDAO.class
 infra/ConexaoJDBC.class
